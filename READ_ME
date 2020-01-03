@@ -1,0 +1,5 @@
+After running main, output will be shown in the Output.txt file.
+    For the 2 cluster run - program cluster designations are listed
+    For the following cluster runs -# of clusters, # of programs within the cluster, and total SSE are shown
+Plots presented in Kmeans.png, and KmeansPlus.png
+Console output notes optimal number of clusters

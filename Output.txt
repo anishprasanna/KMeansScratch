@@ -1,0 +1,387 @@
+MINIMAL
+
+2 Clusters:
+Program 1 is in cluster 1
+Program 2 is in cluster 1
+Program 3 is in cluster 2
+Program 4 is in cluster 1
+Program 5 is in cluster 1
+Program 6 is in cluster 1
+Program 7 is in cluster 1
+Program 8 is in cluster 1
+Program 9 is in cluster 1
+Program 10 is in cluster 1
+Program 11 is in cluster 2
+Program 12 is in cluster 1
+Program 13 is in cluster 1
+Program 14 is in cluster 1
+Program 15 is in cluster 1
+Program 16 is in cluster 1
+Program 17 is in cluster 1
+Program 18 is in cluster 2
+Program 19 is in cluster 1
+Program 20 is in cluster 2
+Program 21 is in cluster 1
+Program 22 is in cluster 1
+Program 23 is in cluster 1
+Program 24 is in cluster 1
+Program 25 is in cluster 1
+Program 26 is in cluster 1
+Program 27 is in cluster 2
+Program 28 is in cluster 1
+Program 29 is in cluster 1
+Program 30 is in cluster 1
+Program 31 is in cluster 1
+Program 32 is in cluster 1
+Program 33 is in cluster 1
+Program 34 is in cluster 1
+Program 35 is in cluster 1
+Program 36 is in cluster 1
+Program 37 is in cluster 1
+Program 38 is in cluster 1
+Program 39 is in cluster 1
+Program 40 is in cluster 1
+Program 41 is in cluster 1
+Program 42 is in cluster 1
+Program 43 is in cluster 1
+Program 44 is in cluster 1
+Program 45 is in cluster 2
+Program 46 is in cluster 1
+Program 47 is in cluster 2
+Program 48 is in cluster 1
+Program 49 is in cluster 1
+Program 50 is in cluster 1
+Program 51 is in cluster 1
+Program 52 is in cluster 1
+Program 53 is in cluster 2
+Program 54 is in cluster 1
+Program 55 is in cluster 1
+Program 56 is in cluster 1
+Program 57 is in cluster 1
+Program 58 is in cluster 1
+Program 59 is in cluster 1
+Program 60 is in cluster 2
+Program 61 is in cluster 1
+Program 62 is in cluster 1
+Program 63 is in cluster 1
+Program 64 is in cluster 1
+Program 65 is in cluster 2
+Program 66 is in cluster 1
+Program 67 is in cluster 1
+Program 68 is in cluster 1
+Program 69 is in cluster 1
+Program 70 is in cluster 2
+Program 71 is in cluster 1
+Program 72 is in cluster 1
+Program 73 is in cluster 1
+Program 74 is in cluster 1
+Program 75 is in cluster 1
+Program 76 is in cluster 1
+Program 77 is in cluster 2
+Program 78 is in cluster 2
+Program 79 is in cluster 1
+Program 80 is in cluster 1
+Program 81 is in cluster 1
+Program 82 is in cluster 1
+Program 83 is in cluster 1
+Program 84 is in cluster 1
+Program 85 is in cluster 1
+Program 86 is in cluster 1
+Program 87 is in cluster 1
+Program 88 is in cluster 1
+Program 89 is in cluster 1
+Program 90 is in cluster 2
+Program 91 is in cluster 1
+Program 92 is in cluster 1
+Program 93 is in cluster 1
+Program 94 is in cluster 1
+Program 95 is in cluster 1
+Program 96 is in cluster 1
+Program 97 is in cluster 1
+Program 98 is in cluster 1
+Program 99 is in cluster 1
+Program 100 is in cluster 2
+Cluster 1: 85 programs
+Cluster 2: 15 programs
+KMeans SSE: 26149
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 94 programs
+Cluster 2: 6 programs
+KMeans++ SSE: 5693.209219858156
+
+3 Clusters:
+Cluster 1: 66 programs
+Cluster 2: 21 programs
+Cluster 3: 13 programs
+KMeans SSE: 21012
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 46 programs
+Cluster 2: 6 programs
+Cluster 3: 48 programs
+KMeans++ SSE: 4277.588768115942
+
+4 Clusters:
+Cluster 1: 41 programs
+Cluster 2: 37 programs
+Cluster 3: 8 programs
+Cluster 4: 14 programs
+KMeans SSE: 21010
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 34 programs
+Cluster 2: 18 programs
+Cluster 3: 6 programs
+Cluster 4: 42 programs
+KMeans++ SSE: 3767.06862745098
+
+5 Clusters:
+Cluster 1: 12 programs
+Cluster 2: 18 programs
+Cluster 3: 34 programs
+Cluster 4: 16 programs
+Cluster 5: 20 programs
+KMeans SSE: 19457
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 9 programs
+Cluster 2: 4 programs
+Cluster 3: 52 programs
+Cluster 4: 2 programs
+Cluster 5: 33 programs
+KMeans++ SSE: 3294.794289044289
+
+6 Clusters:
+Cluster 1: 35 programs
+Cluster 2: 18 programs
+Cluster 3: 25 programs
+Cluster 4: 13 programs
+Cluster 5: 8 programs
+Cluster 6: 1 programs
+KMeans SSE: 19899
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 33 programs
+Cluster 2: 5 programs
+Cluster 3: 9 programs
+Cluster 4: 14 programs
+Cluster 5: 37 programs
+Cluster 6: 2 programs
+KMeans++ SSE: 2902.686661986662
+
+7 Clusters:
+Cluster 1: 20 programs
+Cluster 2: 24 programs
+Cluster 3: 9 programs
+Cluster 4: 23 programs
+Cluster 5: 9 programs
+Cluster 6: 9 programs
+Cluster 7: 6 programs
+KMeans SSE: 20226
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 33 programs
+Cluster 2: 2 programs
+Cluster 3: 37 programs
+Cluster 4: 1 programs
+Cluster 5: 3 programs
+Cluster 6: 15 programs
+Cluster 7: 9 programs
+KMeans++ SSE: 2493.6152334152334
+
+8 Clusters:
+Cluster 1: 42 programs
+Cluster 2: 17 programs
+Cluster 3: 4 programs
+Cluster 4: 0 programs
+Cluster 5: 5 programs
+Cluster 6: 18 programs
+Cluster 7: 10 programs
+Cluster 8: 4 programs
+KMeans SSE: 20930
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 43 programs
+Cluster 2: 1 programs
+Cluster 3: 22 programs
+Cluster 4: 1 programs
+Cluster 5: 3 programs
+Cluster 6: 9 programs
+Cluster 7: 1 programs
+Cluster 8: 20 programs
+KMeans++ SSE: 2236.359901338971
+
+9 Clusters:
+Cluster 1: 18 programs
+Cluster 2: 13 programs
+Cluster 3: 10 programs
+Cluster 4: 25 programs
+Cluster 5: 6 programs
+Cluster 6: 20 programs
+Cluster 7: 8 programs
+Cluster 8: 0 programs
+Cluster 9: 0 programs
+KMeans SSE: 20469
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 22 programs
+Cluster 2: 1 programs
+Cluster 3: 9 programs
+Cluster 4: 39 programs
+Cluster 5: 3 programs
+Cluster 6: 14 programs
+Cluster 7: 1 programs
+Cluster 8: 10 programs
+Cluster 9: 1 programs
+KMeans++ SSE: 1901.681784881785
+
+10 Clusters:
+Cluster 1: 13 programs
+Cluster 2: 30 programs
+Cluster 3: 2 programs
+Cluster 4: 13 programs
+Cluster 5: 10 programs
+Cluster 6: 0 programs
+Cluster 7: 18 programs
+Cluster 8: 0 programs
+Cluster 9: 13 programs
+Cluster 10: 1 programs
+KMeans SSE: 17955
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 39 programs
+Cluster 2: 1 programs
+Cluster 3: 10 programs
+Cluster 4: 1 programs
+Cluster 5: 1 programs
+Cluster 6: 2 programs
+Cluster 7: 28 programs
+Cluster 8: 1 programs
+Cluster 9: 9 programs
+Cluster 10: 8 programs
+KMeans++ SSE: 1647.5989926739926
+
+11 Clusters:
+Cluster 1: 19 programs
+Cluster 2: 21 programs
+Cluster 3: 1 programs
+Cluster 4: 12 programs
+Cluster 5: 10 programs
+Cluster 6: 6 programs
+Cluster 7: 4 programs
+Cluster 8: 7 programs
+Cluster 9: 15 programs
+Cluster 10: 0 programs
+Cluster 11: 5 programs
+KMeans SSE: 19042
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 18 programs
+Cluster 2: 1 programs
+Cluster 3: 2 programs
+Cluster 4: 10 programs
+Cluster 5: 20 programs
+Cluster 6: 31 programs
+Cluster 7: 8 programs
+Cluster 8: 1 programs
+Cluster 9: 1 programs
+Cluster 10: 1 programs
+Cluster 11: 7 programs
+KMeans++ SSE: 1472.0355862775218
+
+12 Clusters:
+Cluster 1: 19 programs
+Cluster 2: 7 programs
+Cluster 3: 15 programs
+Cluster 4: 20 programs
+Cluster 5: 11 programs
+Cluster 6: 5 programs
+Cluster 7: 0 programs
+Cluster 8: 3 programs
+Cluster 9: 0 programs
+Cluster 10: 1 programs
+Cluster 11: 19 programs
+Cluster 12: 0 programs
+KMeans SSE: 17219
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 19 programs
+Cluster 2: 1 programs
+Cluster 3: 8 programs
+Cluster 4: 2 programs
+Cluster 5: 22 programs
+Cluster 6: 10 programs
+Cluster 7: 1 programs
+Cluster 8: 28 programs
+Cluster 9: 1 programs
+Cluster 10: 1 programs
+Cluster 11: 6 programs
+Cluster 12: 1 programs
+KMeans++ SSE: 1365.2203121439964
+
+13 Clusters:
+Cluster 1: 25 programs
+Cluster 2: 15 programs
+Cluster 3: 15 programs
+Cluster 4: 8 programs
+Cluster 5: 2 programs
+Cluster 6: 10 programs
+Cluster 7: 0 programs
+Cluster 8: 8 programs
+Cluster 9: 12 programs
+Cluster 10: 0 programs
+Cluster 11: 1 programs
+Cluster 12: 1 programs
+Cluster 13: 3 programs
+KMeans SSE: 18471
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 10 programs
+Cluster 2: 1 programs
+Cluster 3: 19 programs
+Cluster 4: 1 programs
+Cluster 5: 6 programs
+Cluster 6: 1 programs
+Cluster 7: 2 programs
+Cluster 8: 19 programs
+Cluster 9: 8 programs
+Cluster 10: 1 programs
+Cluster 11: 2 programs
+Cluster 12: 23 programs
+Cluster 13: 7 programs
+KMeans++ SSE: 1248.3991282554211
+
+14 Clusters:
+Cluster 1: 17 programs
+Cluster 2: 17 programs
+Cluster 3: 14 programs
+Cluster 4: 0 programs
+Cluster 5: 7 programs
+Cluster 6: 0 programs
+Cluster 7: 12 programs
+Cluster 8: 2 programs
+Cluster 9: 6 programs
+Cluster 10: 10 programs
+Cluster 11: 9 programs
+Cluster 12: 2 programs
+Cluster 13: 3 programs
+Cluster 14: 1 programs
+KMeans SSE: 14570
+
+Results from scikit Kmeans++ clustering:
+Cluster 1: 18 programs
+Cluster 2: 1 programs
+Cluster 3: 15 programs
+Cluster 4: 2 programs
+Cluster 5: 6 programs
+Cluster 6: 20 programs
+Cluster 7: 1 programs
+Cluster 8: 10 programs
+Cluster 9: 1 programs
+Cluster 10: 9 programs
+Cluster 11: 1 programs
+Cluster 12: 6 programs
+Cluster 13: 9 programs
+Cluster 14: 1 programs
+KMeans++ SSE: 1162.1166666666668
